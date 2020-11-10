@@ -1,0 +1,25 @@
+{
+  "name": "djsdocs-generator",
+  "version": "1.0.0",
+  "description": "Discord.js docs wrapper/generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamleduy04/djsdocs-generator.git"
+  },
+  "author": "Duy Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phamleduy04/djsdocs-generator/issues"
+  },
+  "homepage": "https://github.com/phamleduy04/djsdocs-generator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
